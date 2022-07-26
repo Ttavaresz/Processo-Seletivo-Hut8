@@ -1,3 +1,3 @@
-var nome = "lucas"
+var nome = "Lucas"
 
 console.log(nome)
