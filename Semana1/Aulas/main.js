@@ -50,3 +50,4 @@ let fruitName = "Abacaxi"
     console.log("Minha idade é " + 21);
     console.log("2" + 1);
     console.log(2 + "1");
+// 
