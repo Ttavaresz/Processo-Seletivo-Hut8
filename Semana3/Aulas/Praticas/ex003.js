@@ -8,14 +8,5 @@
 //     Angela, Rosa, Ticiana, Carla, Renata
 
 const names = ['Angela', 'Rosa', 'Ticiana', 'Carla', 'Renata'];
-let print = "";
 
-for (let i = 0; i < names.length; i++) {
-    print += names[i];
-    if (i < names.length - 2) {
-        print += ", "
-    } else if (i < names.length - 1) {
-        print += " e "
-    }
-}
-console.log(`${print}`);
+for(let i = 0; i)
